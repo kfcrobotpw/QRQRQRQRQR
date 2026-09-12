@@ -1,0 +1,10 @@
+{
+  "name": "축제 부스 스탬프 투어 & 간식 교환",
+  "description": "QR 코드 기반 축제 부스 스탬프 투어 및 완주자 간식/리워드 지급 관리 시스템",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
